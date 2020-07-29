@@ -15,7 +15,7 @@ Hi I am **ANIKET TYAGI** :wave: , currently a student at _Bharati Vidyapeeth's C
 From the last couple of months @tyagit and I have been working on a new project for building a new generation identity card - [SocialCards](https://socialcards.net).
 
 
-![My Network](/assets/MyNetwork.jpeg)
+![My Network](https://github.com/anikettyagi13/anikettyagi13/blob/master/assets/MyNetwork.jpeg)
 
 
 

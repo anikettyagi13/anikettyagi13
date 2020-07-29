@@ -1,5 +1,7 @@
 # HELLO_WORLD (NAMASTE) :pray:
 
+---
+
 Hi I am **ANIKET TYAGI** :wave: , currently a student at _Bharati Vidyapeeth's College of Engineering, Delhi_ Pursuing **Computer Science Engineering**. I am a Tech freak, Would love to develope something which helps to make life of everyday man easy :relieved:. 
 ---
 ## More about ME
